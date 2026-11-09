@@ -89,7 +89,7 @@ O Palestrante é uma entidade do sistema, cadastrada pelo Organizador, e não um
 | RN08 | Frequência é o percentual de atividades do evento em que o participante teve presença. |
 | RN09 | A participação de uma atividade é o número de presenças registradas nela. |
 
-> Estas são as regras de negócio da especificação funcional. O levantamento da Semana 1 ([`semana01.md`](semana01.md)) tem uma lista própria (RN01 a RN12), com numeração diferente e regras de dados a mais: datas do evento, horário da atividade e CPF e e-mail únicos.
+> Estas são as regras de negócio da especificação funcional. O levantamento da Semana 1 ([`semana01.md`](../semana01.md)) tem uma lista própria (RN01 a RN12), com numeração diferente e regras de dados a mais: datas do evento, horário da atividade e CPF e e-mail únicos.
 
 ### 1.8. Requisitos não funcionais
 

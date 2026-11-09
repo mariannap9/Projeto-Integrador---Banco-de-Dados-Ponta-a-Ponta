@@ -1,6 +1,6 @@
 # Modelo de dados
 
-Diagrama entidade-relacionamento (o GitHub renderiza o Mermaid abaixo automaticamente).
+Diagrama entidade-relacionamento:
 
 ```mermaid
 erDiagram

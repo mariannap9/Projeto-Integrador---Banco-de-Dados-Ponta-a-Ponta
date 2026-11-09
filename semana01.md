@@ -79,4 +79,3 @@ O banco deve guardar, em um só lugar, os eventos e suas atividades, os palestra
 4. Quais palestrantes conduzem mais atividades?
 5. Qual a taxa de ocupação das vagas de cada atividade?
 
-As consultas correspondentes estão em [`sql/03_consultas.sql`](sql/03_consultas.sql), na mesma ordem (o arquivo traz ainda uma sexta consulta, sobre inscrições canceladas, que é um extra).

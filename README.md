@@ -22,38 +22,6 @@ Uma instituição organiza congressos, seminários e palestras e precisa control
 Sete tabelas: `evento`, `atividade`, `palestrante`, `atividade_palestrante`, `participante`, `inscricao` e `presenca`.
 Diagrama e dicionário de dados em [`docs/modelo-de-dados.md`](docs/modelo-de-dados.md).
 
-## Estrutura do repositório
-
-```
-.
-├── README.md
-├── docs/
-│   ├── semana-1-levantamento-de-requisitos.md   # cenário, requisitos, regras de negócio, entidades, perguntas
-│   ├── modelo-de-dados.md                       # diagrama ER (Mermaid) e dicionário de dados
-│   └── referencias/                             # especificação funcional original do SGEA (PDF)
-└── sql/
-    ├── 01_schema.sql                            # tabelas, restrições e gatilhos
-    ├── 02_dados_exemplo.sql                     # dados fictícios para teste
-    ├── 03_consultas.sql                         # as 6 consultas gerenciais
-    └── 04_testes_regras.sql                     # comandos que devem falhar (provam as regras)
-```
-
-## Como executar (Supabase ou PostgreSQL)
-
-1. Crie um projeto no [Supabase](https://supabase.com) (ou um banco PostgreSQL local).
-2. No **SQL Editor**, rode os arquivos nesta ordem:
-   1. `sql/01_schema.sql` — cria as tabelas (apaga e recria o esquema, então use em banco de teste);
-   2. `sql/02_dados_exemplo.sql` — carrega os dados de exemplo (rode uma única vez, em banco recém-criado);
-   3. `sql/03_consultas.sql` — executa as consultas, uma por vez;
-   4. `sql/04_testes_regras.sql` — opcional; cada comando deve retornar erro.
-
-Com `psql`:
-
-```bash
-psql "$DATABASE_URL" -f sql/01_schema.sql -f sql/02_dados_exemplo.sql
-psql "$DATABASE_URL" -f sql/03_consultas.sql
-```
-
 ## Regras de negócio protegidas pelo banco
 
 | Regra | Como é garantida |

@@ -1,7 +1,7 @@
 # SGEA Banco de Dados de Eventos Acadêmicos
 
-Projeto da disciplina de Banco de Dados (Instituto Federal do Triângulo Mineiro — IFTM, Campus Uberlândia Centro).
-**Cenário 4:** sistema de eventos acadêmicos — eventos, atividades, palestrantes, inscrições e presença.
+Projeto da disciplina de Banco de Dados (Instituto Federal do Triângulo Mineiro IFTM, Campus Uberlândia Centro).
+**Cenário 4:** sistema de eventos acadêmicos: eventos, atividades, palestrantes, inscrições e presença.
 
 ## Integrantes
 

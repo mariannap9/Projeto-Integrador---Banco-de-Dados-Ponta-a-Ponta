@@ -43,6 +43,6 @@ Diagrama e dicionário de dados em [`docs/modelo-de-dados.md`](docs/modelo-de-da
 - [ ] Implementação no Supabase
 - [ ] Documentação final
 
-- `main` fica sempre funcionando; cada mudança vai em uma branch (`git checkout -b feature/nome-da-mudanca`);
+
 - abra um Pull Request e peça a revisão de outro integrante antes de juntar;
 - mensagens de commit curtas e no imperativo: `Adiciona consulta de frequência`.

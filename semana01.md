@@ -4,9 +4,9 @@
 
 | Campo | Informação |
 | --- | --- |
-| Cenário escolhido | Cenário 4 — Sistema de eventos acadêmicos |
+| Cenário escolhido | Cenário 4: Sistema de eventos acadêmicos |
 | Integrantes | Luanna Naves de Oliveira, Marcelo Cabral Rodrigues, Marianna Peres Castro |
-| Disciplina | Banco de Dados — Semana 1: levantamento de requisitos e análise do problema |
+| Disciplina | Banco de Dados - Semana 1: levantamento de requisitos e análise do problema |
 
 ## 2. Contextualização e descrição do problema
 

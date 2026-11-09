@@ -1,4 +1,4 @@
-# Semana 1 — Levantamento de requisitos e análise do problema
+# Semana 1 Levantamento de requisitos e análise do problema
 
 ## 1. Identificação do grupo e cenário escolhido
 

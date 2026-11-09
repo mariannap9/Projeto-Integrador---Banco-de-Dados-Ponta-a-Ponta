@@ -35,14 +35,3 @@ Diagrama e dicionário de dados em [`docs/modelo-de-dados.md`](docs/modelo-de-da
 | Uma presença por participante em cada atividade | `UNIQUE (atividade_id, inscricao_id)` |
 | CPF e e-mail únicos | `UNIQUE` em `participante` |
 
-## Andamento
-
-- [x] Semana 1 — levantamento de requisitos e análise do problema
-- [ ] Esquema físico e consultas em SQL (PostgreSQL)
-- [ ] Modelagem no drawDB (exportar imagem para `docs/`)
-- [ ] Implementação no Supabase
-- [ ] Documentação final
-
-
-- abra um Pull Request e peça a revisão de outro integrante antes de juntar;
-- mensagens de commit curtas e no imperativo: `Adiciona consulta de frequência`.

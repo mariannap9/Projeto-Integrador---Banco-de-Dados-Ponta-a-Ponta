@@ -137,8 +137,8 @@ Resolve a relação muitos-para-muitos entre atividade e palestrante (RN05).
 - Única por (`atividade_id`, `inscricao_id`): uma presença por participante em cada atividade (RN11).
 - Um gatilho recusa a presença quando a inscrição não está `Confirmada` (RN10).
 
-## Decisões de modelagem
+## atributos de modelagem
 
-- **Presença liga a inscrição, não o participante.** Assim a regra "participante inscrito no evento da atividade" vale por construção.
-- **Frequência** é calculada em consulta (presenças dividido pelo total de atividades do evento); não é gravada em coluna, para não ficar desatualizada.
-- **Cancelar não apaga:** a inscrição cancelada continua no banco com situação `Cancelada`, preservando o histórico.
+- **Presença ligada a inscrição, não o participante.** a regra "participante inscrito no evento da atividade" vale por construção.
+- **Frequência** calculada em consulta (presenças dividido pelo total de atividades do evento) não é gravada em coluna, para não ficar desatualizada.
+- **Cancelar não apaga:** a inscrição cancelada continua no banco com situação `Cancelada`

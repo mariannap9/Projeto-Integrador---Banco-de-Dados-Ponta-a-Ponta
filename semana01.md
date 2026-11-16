@@ -12,7 +12,7 @@
 
 ### Organização fictícia
 
-O Instituto Acadêmico Horizonte (IAH) é uma instituição de ensino superior fictícia que promove, a cada ano, congressos, seminários e palestras abertos a alunos, professores e público externo. A Coordenação de Eventos do IAH planeja a programação, cadastra os palestrantes e recebe as inscrições.
+O Instituto Acadêmico Triângulo Mineiro (IATM) é uma instituição de ensino superior fictícia que promove, a cada ano, congressos, seminários e palestras abertos a alunos, professores e público externo. A Coordenação de Eventos do IAH planeja a programação, cadastra os palestrantes e recebe as inscrições.
 
 ### Problema
 

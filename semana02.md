@@ -1,4 +1,4 @@
-# Semana 2 — Diagrama Entidade-Relacionamento (DER) e Modelo Lógico Relacional
+# Semana 2: Diagrama Entidade-Relacionamento (DER) e Modelo Lógico Relacional
 
 ## 1. Identificação do grupo e cenário escolhido
 

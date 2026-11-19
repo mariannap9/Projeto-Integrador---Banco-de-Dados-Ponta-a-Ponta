@@ -25,7 +25,7 @@ Na Semana 1, foram levantadas sete entidades preliminares (`Evento`, `Atividade`
 
 ## 3. Diagrama Entidade-Relacionamento (DER)
 
-### 3.1. Diagrama visual (Mermaid — renderização nativa no GitHub)
+### 3.1. Diagrama visual
 
 ```mermaid
 erDiagram
